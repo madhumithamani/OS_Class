@@ -10,7 +10,7 @@
 char  	inputFile[100];
 int   	wordCount = 1;
 char* 	wordList[MAX_WORDS];
-
+//Adding thing a 
 
 void* 	countWordFrequency(void *);
 void 	countWord(char * filename);
